@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+body {
+    font-family: sans-serif;
+}
+a{
+    text-decoration:none ;
+    background-color: brown;
+    color: white;
+    border:3px solid white ;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+header{
+    padding: 40px;
+    margin: 10px;
+    border-radius: 10px;
+     background-color: red;
+}
+main{
+    background-color: yellow;
+    padding: 40px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center ;
+}
+footer{
+    background-color: #64AA2B;
+    padding: 40px;
+    margin: 10px;
+    border-radius: 10px;
+}
